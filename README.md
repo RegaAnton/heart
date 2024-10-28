@@ -1,5 +1,5 @@
 <h1 align="center">
-   <a href="https://github.com/RegaAnton/TimeBreak.git" target="_blank" align="center">
+   <a href="https://github.com/RegaAnton/heart.git" target="_blank" align="center">
       HEART
    </a>
 </h1>
@@ -15,5 +15,5 @@ Installing and running Sneat is super easy, please Follow below steps and you wi
 - Clone Project
 
 ```bash
-git clone https://github.com/RegaAnton/TimeBreak.git
+git clone https://github.com/RegaAnton/heart.git
 ```
